@@ -55,7 +55,7 @@
         <commons-csv.version>1.4</commons-csv.version>
         <jackson.version>2.10.2</jackson.version>
         <jackson-annotations.version>2.10.2</jackson-annotations.version>
-        <jackson-core.version>2.10.2</jackson-core.version>
+        <jackson-core.version>2.11.0</jackson-core.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
         <scala.version>2.13</scala.version>
         <akka.version>2.6.3</akka.version>
@@ -288,7 +288,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
