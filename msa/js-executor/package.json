@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@azure/service-bus": "^1.1.7",
-    "@google-cloud/pubsub": "^1.7.3",
+    "@google-cloud/pubsub": "^2.0.0",
     "amqplib": "^0.5.6",
     "aws-sdk": "^2.677.0",
     "azure-sb": "^0.11.1",
