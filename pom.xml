@@ -40,7 +40,7 @@
         <spring-oauth2.version>2.1.2.RELEASE</spring-oauth2.version>
         <spring.version>5.2.6.RELEASE</spring.version>
         <spring-security.version>5.2.3.RELEASE</spring-security.version>
-        <spring-data-redis.version>2.2.4.RELEASE</spring-data-redis.version>
+        <spring-data-redis.version>2.4.5</spring-data-redis.version>
         <jedis.version>3.1.0</jedis.version>
         <jjwt.version>0.7.0</jjwt.version>
         <json-path.version>2.2.0</json-path.version>
@@ -680,7 +680,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
