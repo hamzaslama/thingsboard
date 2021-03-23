@@ -24,7 +24,7 @@
     "@angular/platform-browser-dynamic": "^10.0.9",
     "@angular/router": "^10.0.9",
     "@auth0/angular-jwt": "^5.0.1",
-    "@date-io/date-fns": "^2.6.1",
+    "@date-io/date-fns": "^2.10.8",
     "@flowjs/flow.js": "^2.14.1",
     "@flowjs/ngx-flow": "^0.4.4",
     "@juggle/resize-observer": "^3.1.3",
