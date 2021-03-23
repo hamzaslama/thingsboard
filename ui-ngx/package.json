@@ -81,7 +81,7 @@
     "react-dropzone": "^11.0.3",
     "reactcss": "^1.2.3",
     "rxjs": "^6.6.2",
-    "schema-inspector": "^1.7.0",
+    "schema-inspector": "^2.0.0",
     "screenfull": "^5.0.2",
     "split.js": "^1.6.2",
     "systemjs": "0.21.5",
