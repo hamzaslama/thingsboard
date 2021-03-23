@@ -58,7 +58,7 @@
         <commons-lang3.version>3.4</commons-lang3.version>
         <commons-io.version>2.5</commons-io.version>
         <commons-csv.version>1.4</commons-csv.version>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.11.2</jackson.version>
         <jackson-annotations.version>2.10.2</jackson-annotations.version>
         <jackson-core.version>2.10.2</jackson-core.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
@@ -680,7 +680,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
