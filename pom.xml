@@ -36,10 +36,10 @@
         <pkg.implementationTitle>${project.name}</pkg.implementationTitle>
         <pkg.unixLogFolder>/var/log/${pkg.name}</pkg.unixLogFolder>
         <pkg.installFolder>/usr/share/${pkg.name}</pkg.installFolder>
-        <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
+        <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
         <spring-oauth2.version>2.1.2.RELEASE</spring-oauth2.version>
         <spring.version>5.2.6.RELEASE</spring.version>
-        <spring-security.version>5.2.3.RELEASE</spring-security.version>
+        <spring-security.version>5.5.0</spring-security.version>
         <spring-data-redis.version>2.2.4.RELEASE</spring-data-redis.version>
         <jedis.version>3.1.0</jedis.version>
         <jjwt.version>0.7.0</jjwt.version>
@@ -49,7 +49,7 @@
         <logback.version>1.2.3</logback.version>
         <mockito.version>1.9.5</mockito.version>
         <rat.version>0.10</rat.version>
-        <cassandra.version>4.6.0</cassandra.version>
+        <cassandra.version>4.7.0</cassandra.version>
         <metrics.version>4.0.5</metrics.version>
         <cassandra-unit.version>4.3.1.0</cassandra-unit.version>
         <takari-cpsuite.version>1.2.7</takari-cpsuite.version>
@@ -680,7 +680,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
